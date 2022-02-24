@@ -1,0 +1,16 @@
+{
+  "name": "react-task-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index"
+    },
+  "author": "Onur Baha",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "slugify": "^1.6.5"
+  }
+}
